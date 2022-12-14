@@ -6,6 +6,6 @@
 
 - Removal of the skeleton of the fingerprint by the skeleton removal process.
 
-- Finding the minutiae dots on the fingerprint image that you extracted the skeleton from.
+- Finding the minutiae points on the fingerprint image that you extracted the skeleton from.
 
 - Creating a database for the minutiae points you have obtained as follows.
